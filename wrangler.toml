@@ -2,7 +2,7 @@ name = "blog-likes"
 account_id = "22812d251a775438597b379aebc4b330"
 compatibility_date = "2025-04-01"
 main = "src/index.js"
-workers_dev = false
+workers_dev = true
 
 [[d1_databases]]
 binding = "DB"
